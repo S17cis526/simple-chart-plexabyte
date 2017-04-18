@@ -1,0 +1,7 @@
+#peer-review {
+  width: 230px;
+  height: 250px;
+  border: 1px solid black
+  border-radius: 5px;
+  box-shadow: 3px 3px 2px;
+}
